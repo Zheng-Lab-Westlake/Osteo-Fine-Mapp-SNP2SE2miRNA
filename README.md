@@ -37,7 +37,9 @@ Use the follow command to download:
 
 
  Note that the step of long-range interaction identification between Super-Enhancer and miRNA may take a while. 
+ 
  Since the Hi-C data used here were from Alessandra Chesi's study, anyone used this tool please kindly cite:
- 	Chesi A, Wagley Y, Johnson ME et al. Genome-scale Capture C promoter interactions implicate effector genes at GWAS loci for bone mineral density. Nat Commun. 2019 Mar 19;10(1):1260. doi: 10.1038/s41467-019-09302-x.
+ 	
+	Chesi A, Wagley Y, Johnson ME et al. Genome-scale Capture C promoter interactions implicate effector genes at GWAS loci for bone mineral density. Nat Commun. 2019 Mar 19;10(1):1260. doi: 10.1038/s41467-019-09302-x.
 
 
